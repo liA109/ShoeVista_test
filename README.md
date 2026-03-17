@@ -23,12 +23,12 @@ All required tasks were completed within the given time.
 ## Setup Instructions
 
 ### Backend
-cd server
-npm install
-npm start
+cd server;
+npm install;
+npm start;
 
 ### Frontend
-cd client
-npm install
-npm run dev
+cd client;
+npm install;
+npm run dev;
 
