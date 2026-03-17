@@ -30,5 +30,5 @@ npm start;
 ### Frontend
 cd client;
 npm install;
-npm run dev;
+npm start;
 
